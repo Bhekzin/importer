@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OM.GCS.Importer", "OM.GCS.Importer\OM.GCS.Importer.csproj", "{F457667A-DF2C-4198-B274-F38530D4EDF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCS.WebApi", "GCS.WebApi\GCS.WebApi.csproj", "{93B1F121-D21B-4774-9FD8-512D1F17210B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F457667A-DF2C-4198-B274-F38530D4EDF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F457667A-DF2C-4198-B274-F38530D4EDF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F457667A-DF2C-4198-B274-F38530D4EDF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F457667A-DF2C-4198-B274-F38530D4EDF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93B1F121-D21B-4774-9FD8-512D1F17210B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B1F121-D21B-4774-9FD8-512D1F17210B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B1F121-D21B-4774-9FD8-512D1F17210B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B1F121-D21B-4774-9FD8-512D1F17210B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
